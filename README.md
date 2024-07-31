@@ -37,7 +37,7 @@ A Flutter application designed to calculate scores for the game Trix, featuring 
 
 **Get Started:**
 
-1. **Clone the repository:** `git clone https://github.com/Hamad-Anwar/Flutter-Music-Player-App-With-BLoc.git`
+1. **Clone the repository:** `git clone https://github.com/anasAlmadmouj/trix_score`
 2. **Install dependencies:** `flutter pub get`
 3. **Connect your device or start an emulator.**
 4. **Run the app:** `flutter run`
