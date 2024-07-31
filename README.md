@@ -4,8 +4,13 @@ A Flutter application designed to calculate scores for the game Trix, featuring 
 
 ## Screenshots
 
-<img src="demo.png">
-<img src="demo1.png">
+<img src="first_screen.jpg">
+<img src="second_screen.jpg">
+<img src="third_screen.jpg">
+<img src="fourth_screen.jpg">
+<img src="fifth_screen.jpg">
+<img src="sixth_screen.jpg">
+<img src="seventh_screen.jpg">
 
 **Calculate your game scores with this beautiful and intuitive Flutter app!**
 
@@ -64,4 +69,4 @@ This project uses the following dependencies:
 * **Star the project on GitHub if you like it!**
 * **Share with your friends and Trix lovers.**
 
-### Designed and developed with by [Anas Almadmouj](https://www.linkedin.com/in/hamad-anwar/).
+### Designed and developed with by [Anas Almadmouj](https://www.linkedin.com/in/anas-al-madmouj-0979271aa/).
