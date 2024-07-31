@@ -1,4 +1,4 @@
-# Flutter Music App with BLoC
+# Trix Score App
 
 A Flutter application designed to calculate scores for the game Trix, featuring both Trix and Trix Complex modes. The app offers a simple, beautiful, and clear design, ensuring an enjoyable user experience for tracking and calculating game results.
 
