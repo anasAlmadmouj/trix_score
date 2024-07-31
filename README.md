@@ -4,13 +4,16 @@ A Flutter application designed to calculate scores for the game Trix, featuring 
 
 ## Screenshots
 
-<img src="first_screen.jpg">
-<img src="second_screen.jpg">
-<img src="third_screen.jpg">
-<img src="fourth_screen.jpg">
-<img src="fifth_screen.jpg">
-<img src="sixth_screen.jpg">
-<img src="seventh_screen.jpg">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="first_screen.jpg" alt="First Screen" width="45%">
+  <img src="second_screen.jpg" alt="Second Screen" width="45%">
+  <img src="third_screen.jpg" alt="Third Screen" width="45%">
+  <img src="fourth_screen.jpg" alt="Fourth Screen" width="45%">
+  <img src="fifth_screen.jpg" alt="Fifth Screen" width="45%">
+  <img src="sixth_screen.jpg" alt="Sixth Screen" width="45%">
+  <img src="seventh_screen.jpg" alt="Seventh Screen" width="45%">
+</div>
+
 
 **Calculate your game scores with this beautiful and intuitive Flutter app!**
 
