@@ -4,7 +4,7 @@ A Flutter application designed to calculate scores for the game Trix, featuring 
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="first_screen.jpg" alt="First Screen" width="45%">
   <img src="second_screen.jpg" alt="Second Screen" width="45%">
   <img src="third_screen.jpg" alt="Third Screen" width="45%">
